@@ -3,7 +3,7 @@
 # _**Cuy Asado con Papas**_
 
 <p align="center">
-<img src="Imagenes_RecetaDani/inicio2.jpg" width="350">
+<img src="Imagenes_RecetaDani/inicio2.jpg" width="700">
 </p>
 
 <div align="left">
@@ -28,15 +28,49 @@
 # **Preparación**
 
 ```
-1. Aliñar el cuy con 5 dientes de ajo, el comino y sal. Dejarlo reposar hasta el día siguiente.
+1. Condimentar el cuy con 5 dientes de ajo, el comino y sal. Dejarlo reposar hasta el día siguiente.
+```
+<p align="center">
+<img src="Imagenes_RecetaDani/p1.jpg" width="350">
+</p>
+
+```
 2. Calentar en una sartén 6 cucharadas de aceite con el achiote. Barnizar el cuy con el aceite de achiote.
+```
+<p align="center">
+<img src="Imagenes_RecetaDani/p2.jpg" width="350">
+</p>
+
+```
 3. Asar el cuy en carbón, pinchándolo para que vaya cocinándose homogéneamente.
+```
+<p align="center">
+<img src="Imagenes_RecetaDani/p3.jpg" width="350">
+</p>
+
+```
 4. Calentar en una sartén 2 cucharadas de aceite y añadir la cebolla, los 3 dientes de ajo restantes, las cebolletas, el cilantro, el orégano, la pimienta y sal. Cocinar durante 5 minutos.
+```
+<p align="center">
+<img src="Imagenes_RecetaDani/p4.jpg" width="350">
+</p>
+
+```
 5. Agregar las papas y suficiente agua hasta cubrirlas. Esperar hasta que el agua hierva, reducir la temperatura y cocinar a fuego lento hasta que las papas estén blandas.
+```
+<p align="center">
+<img src="Imagenes_RecetaDani/p5.jpg" width="350">
+</p>
+
+```
 6. Servir el cuy sobre las papas cocidas acompañado de hojas de lechuga, tomate y curtido de cebolla.
 ```
+<p align="center">
+<img src="Imagenes_RecetaDani/p6.jpg" width="350">
+</p>
 
 
 [https://www.youtube.com/watch?v=1Ljelys6xWs](url)
 
 </body>
+
