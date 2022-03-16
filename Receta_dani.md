@@ -70,7 +70,7 @@
 </p>
 
 
-[Cuy Asado con Papas](https://www.youtube.com/watch?v=1Ljelys6xWs)
+[Para mas detalle para la preparación del Cuy Asado con Papas, por favor da clic aquí](https://www.youtube.com/watch?v=1Ljelys6xWs)
 
 </body>
 
