@@ -74,22 +74,3 @@
 [![Alt text](https://img.youtube.com/vi/1Ljelys6xWs/0.jpg)](https://www.youtube.com/watch?v=1Ljelys6xWs)
 
 @[youtube](ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)
-
-[![][small]][urlVimeo]
-[![][medium]][urlVimeo]
-[![][large]][urlVimeo]
-
-[small]: https://i.vimeocdn.com/video/519177743_100x75.jpg "Small 100x75"
-[medium]: https://i.vimeocdn.com/video/519177743_200x150.jpg "Medium 200x150"
-[large]: https://i.vimeocdn.com/video/519177743_640.jpg "Large 640"
-[urlVimeo]: https://vimeo.com/128154222/ "Vimeo"
-
-
-@[youtube](1Ljelys6xWs|https://www.youtube.com/watch?v=1Ljelys6xWs)
-@[youtube](1Ljelys6xWs|https://www.youtube.com/watch?v=1Ljelys6xWs)
-@[youtube](1Ljelys6xWs|https://www.youtube.com/watch?v=1Ljelys6xWs)
-@[youtube](1Ljelys6xWs|https://www.youtube.com/watch?v=1Ljelys6xWs)
-@[youtube](1Ljelys6xWs|https://www.youtube.com/watch?v=1Ljelys6xWs)
-@[youtube](1Ljelys6xWs|https://www.youtube.com/watch?v=1Ljelys6xWs)
-
-
