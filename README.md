@@ -89,4 +89,4 @@
 [![Alt text](https://img.youtube.com/vi/1Ljelys6xWs/0.jpg)](https://www.youtube.com/watch?v=1Ljelys6xWs)
 
 <!-- Este deberia ser el video -->
-[![Watch the video](https://i.imgur.com/1Ljelys6xWs.png)](https://youtu.be/1Ljelys6xWs)
+[![Watch the video](https://img.youtube.com/vi/1Ljelys6xWs/0.jpg)](https://youtu.be/1Ljelys6xWs)
