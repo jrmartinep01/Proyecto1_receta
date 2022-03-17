@@ -24,7 +24,7 @@
 </div>
 
 
-#**Preparación**
+# **Preparación**
 
 ```
 1. Condimentar el cuy con 5 dientes de ajo, el comino y sal. Dejarlo reposar hasta el día siguiente.
