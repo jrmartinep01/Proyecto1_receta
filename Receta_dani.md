@@ -66,11 +66,13 @@
 6. Servir el cuy sobre las papas cocidas acompañado de hojas de lechuga, tomate y curtido de cebolla.
 ```
 <p align="center">
-<img src="Imagenes_RecetaDani/p6.jpg" width="350">
+<img src="Imagenes_RecetaDani/p6.jpg" width="700">
 </p>
 
 
 [Para mas detalle para la preparación del Cuy Asado con Papas, por favor da clic `aquí`](https://www.youtube.com/watch?v=1Ljelys6xWs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Ljelys6xWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </body>
 
