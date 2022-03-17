@@ -92,4 +92,4 @@
 [![Watch the video](https://img.youtube.com/vi/1Ljelys6xWs/0.jpg)](https://youtu.be/1Ljelys6xWs)
 
 
-[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
+<video src='https://youtu.be/1Ljelys6xWs' width=180/>
