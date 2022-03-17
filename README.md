@@ -82,10 +82,11 @@
 <img src="Imagenes_Receta/p6.jpg" width="700">
 </p>
 
-
+<!-- Este es el link del video -->
 :film_strip: [Para mas detalle para la preparación del Cuy Asado con Papas, por favor da clic `aquí` o mira el sig. video:](https://www.youtube.com/watch?v=1Ljelys6xWs) :film_strip:
 
+<!-- Esta es la miniatura de la imagen del video -->
 [![Alt text](https://img.youtube.com/vi/1Ljelys6xWs/0.jpg)](https://www.youtube.com/watch?v=1Ljelys6xWs)
 
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+<!-- Este deberia ser el video -->
+[![Watch the video](https://i.imgur.com/1Ljelys6xWs.png)](https://youtu.be/1Ljelys6xWs)
