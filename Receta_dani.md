@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="Imagenes_Receta/inicio2.jpg" width="700">
+<img src="Imagenes_Receta/inicio2.jpg" width="600">
 </p>
 
 <div align="left">
