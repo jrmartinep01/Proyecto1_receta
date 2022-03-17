@@ -18,7 +18,7 @@
 
 <div align="left">
 
-|Cantidad|Ingredientes                        |:smiley:               |
+|Cantidad|Ingredientes                        |                       |
 |---|-----------------------------------------|-----------------------|
 | 1 |cuy pelado                               |:nauseated_face:       |
 | 8 |dientes de ajo machacados                |:raised_eyebrow:       |
@@ -37,7 +37,7 @@
 </div>
 
 
-# *Preparación*
+# *Preparación* :chopsticks:
 ```
 1. Condimentar el cuy con 5 dientes de ajo, el comino y sal. Dejarlo reposar hasta el día siguiente.
 ```
