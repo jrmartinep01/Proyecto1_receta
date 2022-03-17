@@ -22,22 +22,6 @@
 | Ø |Sal a gusto                              |
 
 
-
-|              Ingredientes                  |
-| -------------------------------------------|
-| 1 cuy pelado                               |
-| 8 dientes de ajo machacados                |
-| 1 cucharada de comino                      |
-| ½ cucharadita de achiote                   |
-| 1 kilo de papas peladas                    |
-| 8 cucharadas de aceite                     |
-| 2 ramitas de cebolletas finamente cortadas |
-| 1 cebolla colorada finamente picada        |
-| 1 pizca de orégano                         |
-| 1 pizca de pimienta molida                 |
-| 1 cucharada de cilantro                    |
-| Sal a gusto                                |
-
 </div>
 
 
