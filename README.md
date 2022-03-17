@@ -6,7 +6,7 @@
 <img src="Imagenes_Receta/inicio2.jpg" width="700">
 </p>
 
-<div align="left">
+<div align="center">
 
 |Cantidad|Ingredientes                        |                       |
 |---|-----------------------------------------|-----------------------|
