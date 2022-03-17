@@ -20,7 +20,7 @@
 
 <div align="left">
 
-|Cantidad|Ingredientes                                                |
+|Cantidad|Ingredientes                        |                       |
 |---|-----------------------------------------|-----------------------|
 | 1 |cuy pelado                               |:nauseated_face:       |
 | 8 |dientes de ajo machacados                |:raised_eyebrow:       |
