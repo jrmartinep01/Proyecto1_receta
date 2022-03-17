@@ -1,6 +1,6 @@
 <body style="background-color:##F4D03F;">
 
-# ****Cuy Asado con Papas****
+# ***Cuy Asado con Papas***
 
 <p align="center">
 <img src="Imagenes_RecetaDani/inicio2.jpg" width="700">
@@ -25,7 +25,7 @@
 
 </div>
 
->***Preparación***
+**Preparación**
 
 ```
 1. Condimentar el cuy con 5 dientes de ajo, el comino y sal. Dejarlo reposar hasta el día siguiente.
