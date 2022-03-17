@@ -1,5 +1,6 @@
 # ***Cuy Asado con Papas***
 
+
 <p align="center">
 <img src="Imagenes_Receta/inicio2.jpg" width="700">
 </p>
@@ -72,4 +73,9 @@
 [Para mas detalle para la preparación del Cuy Asado con Papas, por favor da clic `aquí`](https://www.youtube.com/watch?v=1Ljelys6xWs)
 
 
+>**Equipo: SinNombre**
+@danihdzb
+@jrmartinep01
 
+>Grupo 3
+@desandovals
