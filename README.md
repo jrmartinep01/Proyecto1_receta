@@ -10,7 +10,7 @@
 @@ text in purple (and bold)@@
 ```
 
-# ***Cuy Asado con Papas***
+# ***Cuy Asado con Papas*** :+1:
 
 <p align="center">
 <img src="Imagenes_Receta/inicio2.jpg" width="700">
