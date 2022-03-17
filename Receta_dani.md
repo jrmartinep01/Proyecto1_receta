@@ -1,5 +1,3 @@
-<body style="background-color:##F4D03F;">
-
 # ***Cuy Asado con Papas***
 
 <p align="center">
@@ -25,7 +23,8 @@
 
 </div>
 
-**Preparación**
+
+#**Preparación**
 
 ```
 1. Condimentar el cuy con 5 dientes de ajo, el comino y sal. Dejarlo reposar hasta el día siguiente.
@@ -72,7 +71,5 @@
 
 [Para mas detalle para la preparación del Cuy Asado con Papas, por favor da clic `aquí`](https://www.youtube.com/watch?v=1Ljelys6xWs)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Ljelys6xWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</body>
 
