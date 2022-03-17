@@ -77,3 +77,23 @@
 <!-- Este deberia ser el video -->
 [![Watch the video](https://img.youtube.com/vi/1Ljelys6xWs/0.jpg)](https://youtu.be/1Ljelys6xWs)
 
+
+
+
+
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+okay
+ 
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+<p>okay</p>
+
