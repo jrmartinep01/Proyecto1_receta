@@ -18,20 +18,20 @@
 
 <div align="left">
 
-|Cantidad|Ingredientes                  |
-|---|-----------------------------------------|
-| 1 |cuy pelado                               |
-| 8 |dientes de ajo machacados                |
-| 1 |cucharada de comino                      |
-| ½ |cucharadita de achiote                   |
-| 1 |kilo de papas peladas                    |
-| 8 |cucharadas de aceite                     |
-| 2 |ramitas de cebolletas finamente cortadas |
-| 1 |cebolla colorada finamente picada        |
-| 1 |pizca de orégano                         |
-| 1 |pizca de pimienta molida                 |
-| 1 |cucharada de cilantro                    |
-| Ø |Sal a gusto                              |
+|Cantidad|Ingredientes                        |:smiley:        |
+|---|-----------------------------------------||
+| 1 |cuy pelado                               |:nauseated_face:|
+| 8 |dientes de ajo machacados                |:raised_eyebrow:|
+| 1 |cucharada de comino                      |:roll_eyes:|
+| ½ |cucharadita de achiote                   |:hot_face:|
+| 1 |kilo de papas peladas                    |:upside_down_face:|
+| 8 |cucharadas de aceite                     |:grimacing:|
+| 2 |ramitas de cebolletas finamente cortadas |:woozy_face:|
+| 1 |cebolla colorada finamente picada        |:dizzy_face:|
+| 1 |pizca de orégano                         |:face_with_thermometer:|
+| 1 |pizca de pimienta molida                 |:confounded:|
+| 1 |cucharada de cilantro                    |:alien:|
+| Ø |Sal a gusto                              |:salt:|
 
 
 </div>
