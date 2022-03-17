@@ -84,7 +84,7 @@
 <style
   type="text/css">
 h1 {color:red;}
-
+okay
 p {color:blue;}
 </style>
 okay
@@ -92,7 +92,7 @@ okay
 <style
   type="text/css">
 h1 {color:red;}
-
+<p>okay</p>
 p {color:blue;}
 </style>
 <p>okay</p>
